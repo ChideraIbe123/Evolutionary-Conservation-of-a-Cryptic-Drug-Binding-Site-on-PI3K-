@@ -1,0 +1,1334 @@
+[
+  {
+    "species": "nomascus_leucogenys",
+    "protein_id": "ENSNLEP00000006936",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "pan_troglodytes",
+    "protein_id": "ENSPTRP00000084763",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "pongo_abelii",
+    "protein_id": "ENSPPYP00000041486",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "pan_paniscus",
+    "protein_id": "ENSPPAP00000010140",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "gorilla_gorilla",
+    "protein_id": "ENSGGOP00000009158",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "ornithorhynchus_anatinus",
+    "protein_id": "ENSOANP00000021943",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "sarcophilus_harrisii",
+    "protein_id": "ENSSHAP00000019318",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "notamacropus_eugenii",
+    "protein_id": "ENSMEUP00000010848",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "dasypus_novemcinctus",
+    "protein_id": "ENSDNOP00000010895",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "choloepus_hoffmanni",
+    "protein_id": "ENSCHOP00000010944",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "erinaceus_europaeus",
+    "protein_id": "ENSEEUP00000013678",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "echinops_telfairi",
+    "protein_id": "ENSETEP00000002330",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "callithrix_jacchus",
+    "protein_id": "ENSCJAP00000024572",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "cercocebus_atys",
+    "protein_id": "ENSCATP00000027089",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "macaca_fascicularis",
+    "protein_id": "ENSMFAP00000027509",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "macaca_mulatta",
+    "protein_id": "ENSMMUP00000006866",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "macaca_nemestrina",
+    "protein_id": "ENSMNEP00000020318",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "papio_anubis",
+    "protein_id": "ENSPANP00000023010",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "mandrillus_leucophaeus",
+    "protein_id": "ENSMLEP00000019594",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "mus_spretus",
+    "protein_id": "ENSMSPP00010027243",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "vombatus_ursinus",
+    "protein_id": "ENSVURP00010016429",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "panthera_leo",
+    "protein_id": "ENSPLOP00000019775",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "ochotona_princeps",
+    "protein_id": "ENSOPRP00000015319",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "bos_taurus",
+    "protein_id": "ENSBTAP00000068953",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "jaculus_jaculus",
+    "protein_id": "ENSJJAP00000020936",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "ursus_americanus",
+    "protein_id": "ENSUAMP00000009116",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "panthera_pardus",
+    "protein_id": "ENSPPRP00000009119",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "ovis_aries",
+    "protein_id": "ENSOARP00020070990",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "urocitellus_parryii",
+    "protein_id": "ENSUPAP00010028803",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "felis_catus",
+    "protein_id": "ENSFCTP00005043631",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "pteropus_vampyrus",
+    "protein_id": "ENSPVAP00000002313",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "octodon_degus",
+    "protein_id": "ENSODEP00000004314",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "ailuropoda_melanoleuca",
+    "protein_id": "ENSAMEP00000011350",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "mesocricetus_auratus",
+    "protein_id": "ENSMAUP00000022448",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "bison_bison_bison",
+    "protein_id": "ENSBBBP00000022754",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "oryctolagus_cuniculus",
+    "protein_id": "ENSOCUP00000026298",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "vulpes_vulpes",
+    "protein_id": "ENSVVUP00000006068",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "phocoena_sinus",
+    "protein_id": "ENSPSNP00000000256",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "otolemur_garnettii",
+    "protein_id": "ENSOGAP00000005899",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "mus_pahari",
+    "protein_id": "MGP_PahariEiJ_P0068225",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "carlito_syrichta",
+    "protein_id": "ENSTSYP00000003884",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "capra_hircus",
+    "protein_id": "ENSCHIP00000015546",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "monodon_monoceros",
+    "protein_id": "ENSMMNP00015002683",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "catagonus_wagneri",
+    "protein_id": "ENSCWAP00000017815",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "rhinopithecus_roxellana",
+    "protein_id": "ENSRROP00000011898",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "delphinapterus_leucas",
+    "protein_id": "ENSDLEP00000020210",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "canis_lupus_dingo",
+    "protein_id": "ENSCAFP00020029626",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "tursiops_truncatus",
+    "protein_id": "ENSTTRP00000013267",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "bos_mutus",
+    "protein_id": "ENSBMUP00000022113",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "rattus_norvegicus",
+    "protein_id": "ENSRNOP00000072496",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "canis_lupus_familiaris",
+    "protein_id": "ENSCAFP00845021905",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "myotis_lucifugus",
+    "protein_id": "ENSMLUP00000008418",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "mus_musculus",
+    "protein_id": "ENSMUSP00000029201",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "cricetulus_griseus_picr",
+    "protein_id": "ENSCGRP00015040342",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "sciurus_vulgaris",
+    "protein_id": "ENSSVLP00005010007",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "microcebus_murinus",
+    "protein_id": "ENSMICP00000051598",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "phascolarctos_cinereus",
+    "protein_id": "ENSPCIP00000008142",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "prolemur_simus",
+    "protein_id": "ENSPSMP00000007895",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "loxodonta_africana",
+    "protein_id": "ENSLAFP00000002561",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "bos_grunniens",
+    "protein_id": "ENSBGRP00000005231",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "chinchilla_lanigera",
+    "protein_id": "ENSCLAP00000022083",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "tupaia_belangeri",
+    "protein_id": "ENSTBEP00000010880",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "procavia_capensis",
+    "protein_id": "ENSPCAP00000007868",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "camelus_dromedarius",
+    "protein_id": "ENSCDRP00005000246",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "dipodomys_ordii",
+    "protein_id": "ENSDORP00000008976",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "equus_caballus",
+    "protein_id": "ENSECAP00000013092",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "moschus_moschiferus",
+    "protein_id": "ENSMMSP00000004670",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "mus_spicilegus",
+    "protein_id": "ENSMSIP00000038163",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "rhinolophus_ferrumequinum",
+    "protein_id": "ENSRFEP00010033093",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "nannospalax_galili",
+    "protein_id": "ENSNGAP00000008918",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "cervus_hanglu_yarkandensis",
+    "protein_id": "ENSCHYP00000031242",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "ursus_maritimus",
+    "protein_id": "ENSUMAP00000010426",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "ictidomys_tridecemlineatus",
+    "protein_id": "ENSSTOP00000011575",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "microtus_ochrogaster",
+    "protein_id": "ENSMOCP00000014496",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "sorex_araneus",
+    "protein_id": "ENSSARP00000008011",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "propithecus_coquereli",
+    "protein_id": "ENSPCOP00000015588",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "sus_scrofa",
+    "protein_id": "ENSSSCP00000052984",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "monodelphis_domestica",
+    "protein_id": "ENSMODP00000026633",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "mus_caroli",
+    "protein_id": "MGP_CAROLIEiJ_P0057223",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "vicugna_pacos",
+    "protein_id": "ENSVPAP00000006142",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "panthera_tigris_altaica",
+    "protein_id": "ENSPTIP00000008341",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "mustela_putorius_furo",
+    "protein_id": "ENSMPUP00000017099",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "bos_indicus_hybrid",
+    "protein_id": "ENSBIXP00005013124",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "marmota_marmota_marmota",
+    "protein_id": "ENSMMMP00000004868",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "rhinopithecus_bieti",
+    "protein_id": "ENSRBIP00000017817",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "cebus_imitator",
+    "protein_id": "ENSCCAP00000020641",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "saimiri_boliviensis_boliviensis",
+    "protein_id": "ENSSBOP00000006220",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "chlorocebus_sabaeus",
+    "protein_id": "ENSCSAP00000009123",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "physeter_catodon",
+    "protein_id": "ENSPCTP00005003548",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "heterocephalus_glaber_female",
+    "protein_id": "ENSHGLP00000043399",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "heterocephalus_glaber_female",
+    "protein_id": "ENSHGLP00000039081",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "heterocephalus_glaber_female",
+    "protein_id": "ENSHGLP00000016628",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "equus_asinus",
+    "protein_id": "ENSEASP00005039543",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "peromyscus_maniculatus_bairdii",
+    "protein_id": "ENSPEMP00000020436",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "cavia_porcellus",
+    "protein_id": "ENSCPOP00000005920",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "neovison_vison",
+    "protein_id": "ENSNVIP00000023261",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "aotus_nancymaae",
+    "protein_id": "ENSANAP00000019381",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "caenorhabditis_elegans",
+    "protein_id": "F39B1.1.1",
+    "perc_id": 0,
+    "type": "ortholog_many2many"
+  },
+  {
+    "species": "drosophila_melanogaster",
+    "protein_id": "FBpp0075819",
+    "perc_id": 0,
+    "type": "ortholog_many2many"
+  },
+  {
+    "species": "ciona_intestinalis",
+    "protein_id": "ENSCINP00000035769",
+    "perc_id": 0,
+    "type": "ortholog_many2many"
+  },
+  {
+    "species": "eptatretus_burgeri",
+    "protein_id": "ENSEBUP00000024063",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "callorhinchus_milii",
+    "protein_id": "ENSCMIP00000004084",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "latimeria_chalumnae",
+    "protein_id": "ENSLACP00000017606",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "lepisosteus_oculatus",
+    "protein_id": "ENSLOCP00000001277",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "clupea_harengus",
+    "protein_id": "ENSCHAP00020031626",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "danio_rerio",
+    "protein_id": "ENSDARP00000138914",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "carassius_auratus",
+    "protein_id": "ENSCARP00000106075",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "carassius_auratus",
+    "protein_id": "ENSCARP00000034731",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "astyanax_mexicanus",
+    "protein_id": "ENSAMXP00000046943",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "ictalurus_punctatus",
+    "protein_id": "ENSIPUP00015082603",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "electrophorus_electricus",
+    "protein_id": "ENSEEEP00000050593",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "esox_lucius",
+    "protein_id": "ENSELUP00000042743",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "esox_lucius",
+    "protein_id": "ENSELUP00000066975",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "oncorhynchus_kisutch",
+    "protein_id": "ENSOKIP00005056367",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "oncorhynchus_kisutch",
+    "protein_id": "ENSOKIP00005074552",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "oncorhynchus_kisutch",
+    "protein_id": "ENSOKIP00005055897",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "oncorhynchus_mykiss",
+    "protein_id": "ENSOMYP00000053815",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "oncorhynchus_mykiss",
+    "protein_id": "ENSOMYP00000100867",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "oncorhynchus_mykiss",
+    "protein_id": "ENSOMYP00000002731",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "salmo_salar",
+    "protein_id": "ENSSSAP00000160913",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "salmo_salar",
+    "protein_id": "ENSSSAP00000051317",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "salmo_salar",
+    "protein_id": "ENSSSAP00000051310",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "salmo_trutta",
+    "protein_id": "ENSSTUP00000110934",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "salmo_trutta",
+    "protein_id": "ENSSTUP00000110487",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "salmo_trutta",
+    "protein_id": "ENSSTUP00000086757",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "gadus_morhua",
+    "protein_id": "ENSGMOP00000056748",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "gadus_morhua",
+    "protein_id": "ENSGMOP00000060500",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "fundulus_heteroclitus",
+    "protein_id": "ENSFHEP00000015010",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "poecilia_reticulata",
+    "protein_id": "ENSPREP00000009342",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "xiphophorus_maculatus",
+    "protein_id": "ENSXMAP00000004675",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "oryzias_latipes",
+    "protein_id": "ENSORLP00000011212",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "cyclopterus_lumpus",
+    "protein_id": "ENSCLMP00005008526",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "oreochromis_niloticus",
+    "protein_id": "ENSONIP00000013444",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "haplochromis_burtoni",
+    "protein_id": "ENSHBUP00000031887",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "astatotilapia_calliptera",
+    "protein_id": "ENSACLP00000055337",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "sparus_aurata",
+    "protein_id": "ENSSAUP00010014711",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "lates_calcarifer",
+    "protein_id": "ENSLCAP00010052307",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "xenopus_tropicalis",
+    "protein_id": "ENSXETP00000015756",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "chrysemys_picta_bellii",
+    "protein_id": "ENSCPBP00000039043",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "crocodylus_porosus",
+    "protein_id": "ENSCPRP00005013866",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "crocodylus_porosus",
+    "protein_id": "ENSCPRP00005020706",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "sphenodon_punctatus",
+    "protein_id": "ENSSPUP00000019135",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "laticauda_laticaudata",
+    "protein_id": "ENSLLTP00000017041",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "notechis_scutatus",
+    "protein_id": "ENSNSUP00000005506",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "pseudonaja_textilis",
+    "protein_id": "ENSPTXP00000025594",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "anas_platyrhynchos_platyrhynchos",
+    "protein_id": "ENSAPLP00000012758",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "gallus_gallus",
+    "protein_id": "ENSGALP00010026266",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "serinus_canaria",
+    "protein_id": "ENSSCAP00000016929",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "meleagris_gallopavo",
+    "protein_id": "ENSMGAP00000010212",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "parus_major",
+    "protein_id": "ENSPMJP00000003044",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "erpetoichthys_calabaricus",
+    "protein_id": "ENSECRP00000017327",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "xiphophorus_couchianus",
+    "protein_id": "ENSXCOP00000009802",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "cyprinodon_variegatus",
+    "protein_id": "ENSCVAP00000024569",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "poecilia_latipinna",
+    "protein_id": "ENSPLAP00000002434",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "ficedula_albicollis",
+    "protein_id": "ENSFALP00000008750",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "pygocentrus_nattereri",
+    "protein_id": "ENSPNAP00000045497",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "taeniopygia_guttata",
+    "protein_id": "ENSTGUP00000011093",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "amphilophus_citrinellus",
+    "protein_id": "ENSACIP00000001416",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "oryzias_melastigma",
+    "protein_id": "ENSOMEP00000025220",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "anabas_testudineus",
+    "protein_id": "ENSATEP00000054197",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "geospiza_fortis",
+    "protein_id": "ENSGFOP00000011064",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "anolis_carolinensis",
+    "protein_id": "ENSACAP00000004867",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "ciona_savignyi",
+    "protein_id": "ENSCSAVP00000000552",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "amphiprion_percula",
+    "protein_id": "ENSAPEP00000005729",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "oryzias_javanicus",
+    "protein_id": "ENSOJAP00000023868",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "cottoperca_gobio",
+    "protein_id": "ENSCGOP00000046872",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "seriola_dumerili",
+    "protein_id": "ENSSDUP00000013702",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "aquila_chrysaetos_chrysaetos",
+    "protein_id": "ENSACCP00020006774",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "oncorhynchus_tshawytscha",
+    "protein_id": "ENSOTSP00005090577",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "oncorhynchus_tshawytscha",
+    "protein_id": "ENSOTSP00005050592",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "oncorhynchus_tshawytscha",
+    "protein_id": "ENSOTSP00005046419",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "oncorhynchus_tshawytscha",
+    "protein_id": "ENSOTSP00005090568",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "kryptolebias_marmoratus",
+    "protein_id": "ENSKMAP00000005670",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "naja_naja",
+    "protein_id": "ENSNNAP00000011439",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "pelodiscus_sinensis",
+    "protein_id": "ENSPSIP00000016189",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "neolamprologus_brichardi",
+    "protein_id": "ENSNBRP00000005905",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "betta_splendens",
+    "protein_id": "ENSBSLP00000050697",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "scleropages_formosus",
+    "protein_id": "ENSSFOP00015010734",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "scleropages_formosus",
+    "protein_id": "ENSSFOP00015021979",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "gopherus_evgoodei",
+    "protein_id": "ENSGEVP00005011439",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "denticeps_clupeoides",
+    "protein_id": "ENSDCDP00010051915",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "pundamilia_nyererei",
+    "protein_id": "ENSPNYP00000002555",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "cyprinus_carpio_carpio",
+    "protein_id": "ENSCCRP00000109621",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "cyprinus_carpio_carpio",
+    "protein_id": "ENSCCRP00000011058",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "chelonoidis_abingdonii",
+    "protein_id": "ENSCABP00000023378",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "tetraodon_nigroviridis",
+    "protein_id": "ENSTNIP00000010637",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "salvator_merianae",
+    "protein_id": "ENSSMRP00000030806",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "seriola_lalandi_dorsalis",
+    "protein_id": "ENSSLDP00000019277",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "terrapene_carolina_triunguis",
+    "protein_id": "ENSTMTP00000013085",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "anser_brachyrhynchus",
+    "protein_id": "ENSABRP00000027048",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "paramormyrops_kingsleyae",
+    "protein_id": "ENSPKIP00000006734",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "paramormyrops_kingsleyae",
+    "protein_id": "ENSPKIP00000007596",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "struthio_camelus_australis",
+    "protein_id": "ENSSCUP00000023597",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "scophthalmus_maximus",
+    "protein_id": "ENSSMAP00000013916",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "amphiprion_ocellaris",
+    "protein_id": "ENSAOCP00000019062",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "hucho_hucho",
+    "protein_id": "ENSHHUP00000064577",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "hucho_hucho",
+    "protein_id": "ENSHHUP00000080829",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "hucho_hucho",
+    "protein_id": "ENSHHUP00000053290",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "hucho_hucho",
+    "protein_id": "ENSHHUP00000074990",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "hucho_hucho",
+    "protein_id": "ENSHHUP00000025713",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "maylandia_zebra",
+    "protein_id": "ENSMZEP00005009229",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "oryzias_sinensis",
+    "protein_id": "ENSOSIP00000006113",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "coturnix_japonica",
+    "protein_id": "ENSCJPP00005017471",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "acanthochromis_polyacanthus",
+    "protein_id": "ENSAPOP00000029369",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "stegastes_partitus",
+    "protein_id": "ENSSPAP00000003379",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "poecilia_formosa",
+    "protein_id": "ENSPFOP00000005065",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "dicentrarchus_labrax",
+    "protein_id": "ENSDLAP00005080427",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "myripristis_murdjan",
+    "protein_id": "ENSMMDP00005028554",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "labrus_bergylta",
+    "protein_id": "ENSLBEP00000011562",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "labrus_bergylta",
+    "protein_id": "ENSLBEP00000011663",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "nothobranchius_furzeri",
+    "protein_id": "ENSNFUP00015021659",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "podarcis_muralis",
+    "protein_id": "ENSPMRP00000004645",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "gasterosteus_aculeatus",
+    "protein_id": "ENSGACP00000021206",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "sander_lucioperca",
+    "protein_id": "ENSSLUP00000007507",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "takifugu_rubripes",
+    "protein_id": "ENSTRUP00000016050",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "hippocampus_comes",
+    "protein_id": "ENSHCOP00000016950",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "mastacembelus_armatus",
+    "protein_id": "ENSMAMP00000003817",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "strigops_habroptila",
+    "protein_id": "ENSSHBP00005000761",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "cynoglossus_semilaevis",
+    "protein_id": "ENSCSEP00000011448",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "cynoglossus_semilaevis",
+    "protein_id": "ENSCSEP00000026590",
+    "perc_id": 0,
+    "type": "ortholog_one2many"
+  },
+  {
+    "species": "leptobrachium_leishanense",
+    "protein_id": "ENSLLEP00000043310",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  },
+  {
+    "species": "larimichthys_crocea",
+    "protein_id": "ENSLCRP00005035978",
+    "perc_id": 0,
+    "type": "ortholog_one2one"
+  }
+]
