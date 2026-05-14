@@ -1,6 +1,6 @@
 # Evolutionary Conservation of a Cryptic Drug Binding Site on PI3Kα
 
-**Chidera Ibe** — Net ID: coibe2 — coibe2@illinois.edu
+**Chidera Ibe** — coibe2@illinois.edu
 
 ---
 
