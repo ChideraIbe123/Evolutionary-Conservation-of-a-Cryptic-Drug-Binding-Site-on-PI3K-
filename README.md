@@ -4,6 +4,8 @@
 
 A bioinformatics analysis testing whether evolutionary conservation predicts which residues develop resistance mutations in patients treated with the allosteric PI3Kα inhibitor RLY-2608. All algorithms (Needleman-Wunsch with affine gaps, progressive multiple sequence alignment, neighbor-joining phylogeny, Shannon-entropy conservation scoring) are implemented from scratch in NumPy.
 
+For more info, see [REPORT.md](REPORT.md).
+
 ## Project Structure
 
 ```
